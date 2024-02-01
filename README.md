@@ -16,7 +16,7 @@
 - configuration.py
 - sender_stand_request.py
 - get_order_track.py
-- .gitignor.py
+- .gitignore.py
 ___
 - Скрин теста.png - скриншот теста
 - SQL Рыженкова Юлия 12 кагорта.txt - SQL запросы
